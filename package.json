@@ -1,0 +1,31 @@
+{
+  "name": "test4",
+  "version": "1.0.0",
+  "description": "test create one web page",
+  "my": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yurek_ Mathiash",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-debug": "^4.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.0",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
