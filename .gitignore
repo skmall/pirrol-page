@@ -4,3 +4,4 @@ bower_components/
 frontend/
 node_modules/
 list.todo/
+package-lock.json
